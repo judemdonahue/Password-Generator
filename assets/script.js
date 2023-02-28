@@ -5,6 +5,7 @@ var upperEl = document.querySelector("#input2");
 var numberEl = document.querySelector("#input3");
 var specEl = document.querySelector("#input4");
 var lengthEl = document.querySelector("#lengthInput");
+var range = document.querySelector("#range")
 
 // Char Strings
 var generateBtn = document.querySelector("#generate");
